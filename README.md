@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 reach me at : abhiseksinha23@gmail.com
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiseksinha23)](https://github.com/abhiseksinha23/github-readme-stats)
