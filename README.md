@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23)
 
-
+![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiseksinha23)](https://github.com/abhiseksinha23/github-readme-stats)
 
