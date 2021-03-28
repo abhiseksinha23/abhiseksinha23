@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - Contact me - https://www.linkedin.com/in/abhisek-kumar-38148b18a/
 - Portfolio - https://abhiseksinha23.github.io/portfolio/
 
-![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23)
 
 ![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23&show_icons=true)
 
