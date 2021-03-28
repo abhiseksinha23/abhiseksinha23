@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 -->
 🔭 I’m a final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.
 - 📫 reach me at : abhiseksinha23@gmail.com
+- I am currently learning new skills and trying to implement those with new ideas.
+- Contact me - https://www.linkedin.com/in/abhisek-kumar-38148b18a/
+- Portfolio - https://abhiseksinha23.github.io/portfolio/
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23)
 
