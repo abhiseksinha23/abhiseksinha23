@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ![Abhisek's github stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23)
 
-[![Iq-chat-app.to](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Iq-chat-app)](https://github.com/abhiseksinha23/Iq-chat-app.to)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiseksinha23)](https://github.com/abhiseksinha23/github-readme-stats)
+
+[![Iq-chat-app](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Iq-chat-app)](https://github.com/abhiseksinha23/Iq-chat-app.to)
+[![Face-detecter-webapp](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Face-detecter-webapp)](https://github.com/abhiseksinha23/Face-detecter-webapp.to)
