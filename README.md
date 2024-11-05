@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 -->
-🔭 I’m a final year ungraduate student, pursuing B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.
+💼 I currently work at Nutanix as a MTS 2.
+🔭 I have completed my B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.
 - 📫 reach me at : abhiseksinha23@gmail.com
 - I am currently learning new skills and trying to implement those with new ideas.
 - Contact me - https://www.linkedin.com/in/abhisek-kumar-38148b18a/
