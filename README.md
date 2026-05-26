@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 -->
-💼 I currently work at Nutanix as a MTS 2.
+💼 I currently work at Nutanix as a MTS 3.
 - 🔭 I have completed my B.Tech(Hons) in computer science and engineering from NIT Jamshedpur.
 - 📫 reach me at : abhiseksinha23@gmail.com
 - I am currently learning new skills and trying to implement those with new ideas.
@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiseksinha23&layout=compact&hide=html,css)](https://github.com/abhiseksinha23/github-readme-stats)
 
+
+<!--
 [![Iq-chat-app](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Iq-chat-app)](https://github.com/abhiseksinha23/Iq-chat-app.to)
 [![Face-detecter-webapp](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Face-detecter-webapp)](https://github.com/abhiseksinha23/Face-detecter-webapp.to)
+-->
