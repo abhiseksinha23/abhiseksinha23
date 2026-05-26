@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 - Contact me - https://www.linkedin.com/in/abhisek-kumar-38148b18a/
 - Portfolio - https://abhiseksinha23.github.io/portfolio/
 
-
+<!--
 ![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiseksinha23&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiseksinha23&layout=compact&hide=html,css)](https://github.com/abhiseksinha23/github-readme-stats)
 
-
-<!--
 [![Iq-chat-app](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Iq-chat-app)](https://github.com/abhiseksinha23/Iq-chat-app.to)
 [![Face-detecter-webapp](https://github-readme-stats.vercel.app/api/pin/?username=abhiseksinha23&repo=Face-detecter-webapp)](https://github.com/abhiseksinha23/Face-detecter-webapp.to)
 -->
